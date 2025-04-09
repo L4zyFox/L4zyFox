@@ -13,7 +13,8 @@
 ##
 
 <div> 
+  <a href="https://www.credential.net/profile/williamswn/wallet" target="_blank"><img src="https://img.shields.io/badge/accredible-1e00ff?style=for-the-badge&logo=accredible&logoColor=white" target="_blank"></a>
   <a href="https://www.credly.com/users/stefan-william-nascente" target="_blank"><img src="https://img.shields.io/badge/credly-e66023?style=for-the-badge&logo=credly&logoColor=white" target="_blank"></a>
- 	<a href="https://www.credential.net/profile/williamswn/wallet" target="_blank"><img src="https://img.shields.io/badge/accredible-1e00ff?style=for-the-badge&logo=accredible&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.linkedin.com/in/stefanswn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/@VulpiSec" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
