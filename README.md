@@ -21,6 +21,6 @@
 ##
 
 <div> 
-  <img align="center" alt="CVE" height="10" width="35" src="https://github.com/L4zyFox/L4zyFox/blob/main/imagens/cve-logo-1.png">
+  <img align="center" alt="CVE" height="15" width="35" src="https://github.com/L4zyFox/L4zyFox/blob/main/imagens/cve-logo-1.png">
   <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-3855" target="_blank"> CVE-2025-3855 - RISE Ultimate Project Manager - IDOR</a>
 </div>
