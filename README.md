@@ -18,8 +18,9 @@
   <a href="https://www.youtube.com/@VulpiSec" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
+##
 
 <div> 
-  <img align="center" alt="CVE" height="30" width="45" src="https://github.com/L4zyFox/L4zyFox/blob/main/imagens/cve-logo-1.png">
+  <img align="center" alt="CVE" height="20" width="45" src="https://github.com/L4zyFox/L4zyFox/blob/main/imagens/cve-logo-1.png">
   <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-3855" target="_blank"> CVE-2025-3855 - RISE Ultimate Project Manager - IDOR</a>
 </div>
